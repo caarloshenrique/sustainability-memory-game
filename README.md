@@ -1,6 +1,15 @@
 # sustainability-memory-game
 :earth_americas: Um jogo da memória com temática de sustentabilidade
 
+## :rocket: Tecnologias utilizadas 
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [JavaScript](https://www.javascript.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+{...}
+
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
